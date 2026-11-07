@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Task Readme",
+    "description": "Writes a Markdown Readme after every completed task and adds a Readme tab beside Chat and Trajectory that lists the history by date with the question and answer of each task."
+  }
+}

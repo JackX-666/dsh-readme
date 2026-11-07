@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "任务 Readme",
+    "description": "每个任务结束后自动生成 Markdown Readme，并在「对话 / 轨迹」旁增加一个 Readme 标签页：按日期分类列出每次对话，标注大概的问题与回答，并始终展示最新一版 Readme。"
+  }
+}

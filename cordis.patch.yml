@@ -1,0 +1,10 @@
+# dsh-task-readme bundle layer: mounts the Host half (README writer + wire
+# projection) and, through package.json `dsh.client`, the browser half that
+# registers the Readme View beside Chat and Trajectory.
+- insert:
+    - id: task-readme
+      name: 'dsh-task-readme'
+      config:
+        readmeFile: README.dsh.md
+        maxTurns: 80
+        writeFile: true
