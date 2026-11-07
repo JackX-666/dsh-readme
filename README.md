@@ -26,10 +26,10 @@ plugin_manager install_bundle  D:\AI Agent\DeepseekHarness\dsh-task-readme
 **A. 从 GitHub 安装（推荐，便于升级）**
 
 ```
-plugin_manager install_bundle  github:<你的用户名>/dsh-task-readme
+plugin_manager install_bundle  github:JackX-666/dsh-readme
 ```
 
-等价写法：`plugin_manager install_bundle  https://github.com/<你的用户名>/dsh-task-readme.git`
+等价写法：`plugin_manager install_bundle  https://github.com/JackX-666/dsh-readme.git`
 
 pnpm 会克隆仓库并按 `files` 字段取包；升级时重装一次即可。
 
